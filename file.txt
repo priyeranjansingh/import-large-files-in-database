@@ -1,0 +1,5 @@
+first extract the file if it is zip
+after than open cmd and go to cd c:/xampp/mysql/bin
+after that use command mysql -u root -p pwd vintageh_vintagehome < D:\downloads\sql\vh_backup.sql
+
+root is user name and pwd is paswword for phpmyadmin, you can replace with your username and password for phpmyadmin
